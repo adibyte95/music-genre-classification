@@ -21,4 +21,4 @@ the model was was trained for 100 epochs and as we can see the slight overfittin
 the model we used was fine tuned VGG16 model . validation accuracy was about 73% and training accuracy was about 88%. considering only 1000 samples this is good accuracy.
 
 # Note
-pull request for any further approach to improve this problem
+pull request for any further approach to improve this problem is accepted
