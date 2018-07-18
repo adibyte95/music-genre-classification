@@ -6,7 +6,7 @@ data set is from GTZAN. Dataset is from <a href= 'http://marsyasweb.appspot.com/
 
 
 # Approach 
-we will convert the .au audio files given into .wav files first . then we will convert the .wav files into spectogram and then use an cnn to classify them into different groups
+we will first convert the .au audio files given into .wav files first . then we will convert the .wav files into spectogram and then use an cnn to classify them into different groups.
 
 #confusion matrix
 <img src = 'https://github.com/adibyte95/music-genre-classification/blob/master/media/confusion_matrix.png'>
