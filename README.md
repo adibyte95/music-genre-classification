@@ -13,7 +13,7 @@ we will first convert the .au audio files given into .wav files first . then we 
 
 # loss curve
 <img src='https://github.com/adibyte95/music-genre-classification/blob/master/media/loss_curve_73_90_10_split.png'> <br/>
-the model was was trained for 100 epochs and as we can see the slight overfitting is there. we took the model which gave the best validaiton accuracy. the model was validated on 100 sampled 10 from each of the 10 classes and trained on 900 images 90 from each of the 10 classes
+the model was was trained for 100 epochs and as we can see the slight overfitting is there. we took the model which gave the best validaiton accuracy. the model was validated on 100 samples, 10 from each of the 10 classes and trained on 900 images 90 from each of the 10 classes
 
 # Accuracy
 the model we used was fine tuned VGG16 model . validation accuracy was about 73% and training accuracy was about 88%. considering only 1000 samples this is good accuracy.
