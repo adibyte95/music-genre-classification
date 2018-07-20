@@ -2,7 +2,7 @@
 Topic- to classify the type of genre a music belongs. genres include blues, classical, country, disco, hiphop, jazz, metal, pop, reggae, rock.<br/>
 
 # Dataset 
-data set is from GTZAN. Dataset is from <a href= 'http://marsyasweb.appspot.com/download/data_sets/'>Here</a> . It contains 100 music from each of the 10 class.<br/>
+data set is GTZAN. Dataset is from <a href= 'http://marsyasweb.appspot.com/download/data_sets/'>Here</a> . It contains 100 music from each of the 10 class.<br/>
 
 
 # Approach 
