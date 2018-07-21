@@ -1,4 +1,5 @@
-# Music Genre Classification
+[![HitCount](http://hits.dwyl.io/adibyte95/music-genre-classification.svg)](http://hits.dwyl.io/adibyte95/music-genre-classification)
+# Music Genre Classification 
 Topic- to classify the type of genre a music belongs. genres include blues, classical, country, disco, hiphop, jazz, metal, pop, reggae, rock.<br/>
 
 # Dataset 
